@@ -1,0 +1,35 @@
+{
+  "name": "eventbooking",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.2.3",
+    "browser-sync": "^2.19.0",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-html-prettify": "0.0.1",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-strip-css-comments": "^1.2.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-uncss": "^0.16.1",
+    "rimraf": "^2.6.2",
+    "run-sequence": "^2.2.0",
+    "uncss": "^0.16.1"
+  },
+  "engines": {
+    "node": "4.6.2"
+  },
+  "dependencies": {
+    "bower": "^1.8.8",
+    "imagemin": "^5.3.1"
+  }
+}
